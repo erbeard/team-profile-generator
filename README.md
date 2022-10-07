@@ -24,7 +24,7 @@
   User will need to clone the repository and install node. This applicatio also requires file systam & node modules. If testing is needed, user can leverage Jest. 
   
   ## Usage
-  Run "node index". You will run through a series of questions that will automatically create a team profile. You can see a demonstration [here](https://youtu.be/mp5cyWm8spM)
+  Run "node index". You will run through a series of questions that will automatically create a team profile. You can see a demonstration [here](https://youtu.be/RB9qnSIlLo4)
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
